@@ -5,3 +5,5 @@ requests
 ccxt
 TA-Lib
 scipy
+python-dotenv
+flask
